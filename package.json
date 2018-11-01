@@ -1,0 +1,22 @@
+{
+  "name": "clima",
+  "version": "1.0.0",
+  "description": "Clima tempo node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-guimaraes/node-clima.git"
+  },
+  "author": "@r-guimaraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r-guimaraes/node-clima/issues"
+  },
+  "homepage": "https://github.com/r-guimaraes/node-clima#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
